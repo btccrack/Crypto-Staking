@@ -12,3 +12,5 @@ btccrack585@gmail.com <- mail for customer support!
 btccrack585@gmail.com <- send mail if you didnt recieve funds!
 
 btccrack585@gmail.com <- send mail if you have trouble connecting to server!
+
+*** Earned more then 50K so far!
