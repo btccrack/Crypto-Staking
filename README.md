@@ -13,4 +13,4 @@ btccrack585@gmail.com <- send mail if you didnt recieve funds!
 
 btccrack585@gmail.com <- send mail if you have trouble connecting to server!
 
-*** Earned more then 50K so far!
+***** Earned more then 50K so far!
